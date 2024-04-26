@@ -2,7 +2,7 @@
 
 作者:大陌DM   Q:269653764 
 # HsFreezer(Hidden in the snow)
-最新版本:1.15  更新日期2024 / 4 / 25 (更新非常快,请关注获取最新特性)
+最新版本:---1.15---  更新日期2024 / 4 / 26 (更新非常快,请关注获取最新特性)
 视频演示:使用版本 V1.05 https://www.bilibili.com/video/BV1zm421L76B
 高速下载地址:https://www.123pan.com/s/o8hUjv-dTllA.html
 特别注意:使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
