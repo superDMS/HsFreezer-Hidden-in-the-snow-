@@ -3,6 +3,7 @@
 作者:大陌DM   Q:269653764 
 # HsFreezer(Hidden in the snow)
 最新版本:1.15  更新日期2024 / 4 / 25 (更新非常快,请关注获取最新特性)
+视频演示:使用版本 V1.05 https://www.bilibili.com/video/BV1zm421L76B
 
     v1.00 
     雪藏Freezer v1.0  GUI版本上线.
