@@ -6,7 +6,7 @@
 
 视频演示:使用版本 V1.05 https://www.bilibili.com/video/BV1zm421L76B
 
-高速下载地址: https://www.123pan.com/s/o8hUjv-lvllA.html
+高速下载地址: https://www.123pan.com/s/o8hUjv-7vllA.html
 
 特别注意:使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
 此类软件属于强制内覆盖绘制软件, 如果用老版本雪藏有可能导致解冻失败! 
