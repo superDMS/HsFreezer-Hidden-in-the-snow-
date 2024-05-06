@@ -9,13 +9,13 @@
 
 高速下载地址: https://www.123pan.com/s/o8hUjv-2dllA.html
 
-最新版本:---1.25---更新日期2024 / 5 / 4 (最近一个月更新非常快,请关注获取最新特性)---
+最新版本:---1.25---更新日期2024 / 5 / 5 (最近一个月更新非常快,请关注获取最新特性)---
 
 视频演示1: https://www.bilibili.com/video/BV1zm421L76B (本视频演示使用版本 V1.05)
 
-视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)
+视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
 
-视频演示3: https://www.bilibili.com/video/BV19H4y137hx/(感谢up主:甜蜜的泡芙 制作) 
+视频演示3: https://www.bilibili.com/video/BV19H4y137hx/(感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
 
 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
 
