@@ -15,7 +15,7 @@
 
 视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
 
-视频演示3: https://www.bilibili.com/video/BV19H4y137hx/(感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
+视频演示3: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
 
 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
 
