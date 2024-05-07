@@ -28,7 +28,7 @@ You can play when you want, and stop when you want.
 --->
 
 By [大陌DM](https://space.bilibili.com/216333612)<br>
-[QQ](https://im.qq.com/):269653764
+[QQ](https://im.qq.com/): 269653764
 <!---
 作者:大陌DM   Q:269653764
 --->
