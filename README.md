@@ -109,7 +109,7 @@ because DX12 with AMD driver will cause conflict resulting to unstable.<br>
 (当然,这个驱动版本是玄学,也不一定需要这样做,可自行测试,现阶段,DX11更为稳定).
 --->
 
-3. Downloaded 80+GB of Genshin, already solved the window stripe problem with some games at V1.18.<br>
+3. Downloaded 80+GB of Genshin, finally solved the window stripe problem with some games at V1.18.<br>
 (Already tested that online games are not affected by freezing,
 the connection resumes quickly after unfreezing)
 <!---
