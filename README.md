@@ -10,7 +10,7 @@ HsFreezer will let you know what RAM is really used for.
 This is a program that lets you freeze your game at any time (software pausing tool). 
 You can play when you want, and stop when you want.
 
-By [大陌DM](https://space.bilibili.com/216333612)
+By [大陌DM](https://space.bilibili.com/216333612)<br>
 [QQ](https://im.qq.com/):269653764
 
 <br>
@@ -35,26 +35,31 @@ Recent updates have been frequent, so stay tuned for the latest features!
 
 [Demo (V1.211)](https://www.bilibili.com/video/BV19H4y137hx) (Thanks to 甜蜜的泡芙)
 
-更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
+Looking forward to your work! 
+I'll showcase all submissions about HsFreezer, so feel free to create with HsFreezer.
 
 <br>
 
 Attention:
 
-1.使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
-此类软件属于强制内覆盖绘制软件,已经适配.
+1.To use overlay style performance monitoring softwares (e.g. RTSS), 
+please update to V1.13 or above.<br>
+(This type of software is forced coverage software, already adapted.)
 
 2.In some of Capcom's games (e.g. Resident Evil), try to use DX11 in the graphics settings, 
-because DX12 with AMD driver will cause conflict resulting to unstable.
-(当然,这个驱动版本是玄学,也不一定需要这样做,可自行测试,现阶段,DX11更为稳定).
+because DX12 with AMD driver will cause conflict resulting to unstable.<br>
+(Some versions of AMD drivers might not cause conflicts and unstability, mysterious.)
 
-3.鄙人狠下心下载了80+个g的原神,  已经于V1.18版本解决原神窗体条纹问题 .
-(原神党久等了, 原神随意冻结,冻结时长太长解冻仅会重连而已,非常快速的还原. 实测联网类游戏可用)
+3.Downloaded 80+GB of Genshin, already solved the window stripe problem with some games at V1.18.
 
-4.多设备玩steam游戏,由于云存档机制问题, 要注意有没有自动云存档，雪藏中的游戏,没退出前steam可能会没有把游戏存档即时更新, 换设备后, 会造成存档回溯. (Thanks to 古赫)
+4.Due to the cloud backup mechanism, playing steam game with multiple devices, 
+note if there is no automatic backup. 
+For games that have been frozen, steam may not backup the game progress on time, 
+which will cause the progress to be lost after switching to another device. (Thanks to 古赫)
 
 5.Some games have anti-debugging mechanisms that make HsFreezer not work, 
-unrelated to HsFreezer. (Rare event, e.g. Honkai Impact 3rd)
+unrelated to HsFreezer.<br>
+(Rare event, e.g. Honkai Impact 3rd)
 
 <br>
 
@@ -299,19 +304,20 @@ Changelog:
 总结: 以上,我反复提到 "碎片时间" ."资源调度"这些概念,你在没用雪藏之前, 可能没啥感觉, 一旦你长期用下来你才能体会到其中的精妙之处,使用电脑的过程中,玩游戏的流畅度是一方面体验, 其实还有一个很重要的方面就是各种进程切换等待的体验,我们日常就觉得换个好的固态硬盘,增加读写效率,能提升这方面体验, 但其实,这个已经到了瓶颈,若干年前从机械到固态的升级,确实感受速度提升很明显,再往后就很难有质的飞跃了,这是程序io机制导致的,并不是读写瓶颈 ,就好像你买一台世界顶级的电脑,你想从A游戏进入到B游戏,你的硬盘和内存哪怕读写速率再快,常规流程操作下来,也远远比雪藏中的两个游戏间切换要慢的,这个已经超越比拼硬件性能的范畴,纯属机制上的降维打击. 这个工具你利用得当的话,会让你日常使用的过程中,感受到一种奇妙的体验,这个体验不是单纯堆硬件性能能堆出来的,堆硬件相当于是在琢磨怎么提升第一第二宇宙速度, 但雪藏像虫洞,空间跳跃...完全不是一个层面的感受, 其实我做这东西的初衷本来是方便我自己玩的,其实我用了快10年有余,习惯成自然,都快以为这个是大家都在用的东西了, 后来才发现并不是, ,后面想着如果把这个理念推广出去,能让硬件(软件)厂商,直接在游戏和系统上重视这块,那该多好,我也希望PC端也有能媲美游戏机那样的机制,我的大我理想,就是以后雪藏成为一款"多余的软件", 到那时候,我也非常欣慰了,至少,咱把一个不被人注意的的理念,推广成了普遍的共识, 这就像星星之火一样,可以燎原, 那句话咋说来着, 这世界上, 本没有路人走多了,就成路了,这需要大家的共同努力,发光发热,推进一些不起眼但实则非常重要的细节进步.   其实看到一些能马上get到雪藏亮点的小伙伴,很是欣慰,(每当我看到群里,评论区里有人说这个东西有啥用,我真是恨我表达能力有限,无法将这一理念普及给所有人,哪怕我已经对他进行各种深度优化,19分钟的2倍速视频都不能说清楚,哎哎,属实惭愧) 大家也不用执着于功能的实现,道生一，一生二，二生三，三生万物,万事万物你中有我我中有你.
 雪藏更侧重的是一种体验与理念的宣传,毕竟好的功能常有,但好的理念不常有. 大陌在此感谢能喜欢雪藏的各位. --咖喱阿多 玛玛哈哈.
 
+<br>
 
-
+<br>
 
 Acknowledgements:
 
-awsLL
-博van小哥哥
-古赫
-いかないで
-Journey
-隆
-浅墨染血
-容之
-疏星
-甜蜜的泡芙
-熊伽喵的熊
+awsLL<br>
+博van小哥哥<br>
+古赫<br>
+いかないで<br>
+Journey<br>
+隆<br>
+浅墨染血<br>
+容之<br>
+疏星<br>
+甜蜜的泡芙<br>
+熊伽喵的熊<br>
