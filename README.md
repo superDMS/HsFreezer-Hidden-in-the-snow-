@@ -22,7 +22,7 @@ HsFreezer will let you know what RAM is really used for.
 --->
 
 This is a program that lets you freeze your game at any time. 
-You can start when you want, and stop when you want. 
+You can start when you want, and stop when you want.<br>
 And, certainly, not only the game!
 <!---
 这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停,当然,不止游戏!
