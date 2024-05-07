@@ -9,7 +9,6 @@ switching 3A games would be easier than switching songs." --大陌DM
 "请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
 --->
 
-
 HsFreezer will let you know what RAM is really used for.
 <!---
 雪藏会让你深刻感受到--内存,原来是这么用的.
@@ -17,14 +16,13 @@ HsFreezer will let you know what RAM is really used for.
 
 <br>
 
-
 # HsFreezer (Hidden in the snow)
 <!---
 # HsFreezer(Hidden in the snow)
 --->
 
 This is a program that lets you freeze your game at any time. 
-You can play when you want, and stop when you want. 
+You can start when you want, and stop when you want. 
 And, certainly, not only the game!
 <!---
 这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停,当然,不止游戏!
