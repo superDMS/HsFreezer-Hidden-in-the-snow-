@@ -4,7 +4,7 @@
 
 雪藏会让你深刻感受到--内存,原来是这么用的.
 
-作者:大陌DM   Q:269653764 
+作者:大陌DM   QQ: 269653764 微信:qliwushu
 # HsFreezer(Hidden in the snow)
 
 高速下载地址: https://www.123pan.com/s/o8hUjv-2dllA.html
