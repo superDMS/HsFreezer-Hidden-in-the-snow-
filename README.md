@@ -1,6 +1,6 @@
-"请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
+"Take your magical gaming capsule. You probably never imagined that switching 3A games would be easier than switching songs." --大陌DM
 
-这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停.
+This is a program that lets you freeze your game at any time (software pausing tool). You can play when you want, and stop when you want.
 
 雪藏会让你深刻感受到--内存,原来是这么用的.
 
