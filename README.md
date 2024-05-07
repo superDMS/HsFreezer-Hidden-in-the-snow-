@@ -49,7 +49,7 @@ Latest: 1.28 - 2024-05-07
     Stabilize more and compatible more;
     Added multiple freeze support;
     Added more beautified icons;
-    New supported: BLADEPOINT
+    New adapted: BLADEPOINT
 <!---
 1.增加稳定性:适配多个游戏:永劫无间等2.支持多开批量冻结3.图标美化补全.
 --->
