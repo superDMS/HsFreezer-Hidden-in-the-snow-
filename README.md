@@ -1,4 +1,5 @@
-"Take your magical gaming capsule. You probably never imagined that switching 3A games would be easier than switching songs." --大陌DM
+"Take your magical gaming capsule. You probably never imagined that 
+switching 3A games would be easier than switching songs." --大陌DM
 
 HsFreezer will let you know what RAM is really used for.
 
@@ -6,7 +7,8 @@ HsFreezer will let you know what RAM is really used for.
 
 # HsFreezer (Hidden in the snow)
 
-This is a program that lets you freeze your game at any time (software pausing tool). You can play when you want, and stop when you want.
+This is a program that lets you freeze your game at any time (software pausing tool). 
+You can play when you want, and stop when you want.
 
 By [大陌DM](https://space.bilibili.com/216333612)
 [QQ](https://im.qq.com/):269653764
@@ -25,6 +27,8 @@ Updates as needed!
 
 Recent updates have been frequent, so stay tuned for the latest features!
 
+<br>
+
 [Demo (V1.05)](https://www.bilibili.com/video/BV1zm421L76B) (Thanks to 甜蜜的泡芙)
 
 [Demo (V1.14)](https://www.bilibili.com/video/BV1xp421S7PX) (Thanks to 博van小哥哥)
@@ -33,13 +37,15 @@ Recent updates have been frequent, so stay tuned for the latest features!
 
 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
 
+<br>
 
-特别注意:
+Attention:
 
 1.使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
 此类软件属于强制内覆盖绘制软件,已经适配.
 
-2.卡普空部分游戏:如生化危机等,尽量画面设置中尽量使用DX11,因为AMD驱动与DX12有某些冲突
+2.In some of Capcom's games (e.g. Resident Evil), try to use DX11 in the graphics settings, 
+because DX12 with AMD driver will cause conflict resulting to unstable.
 (当然,这个驱动版本是玄学,也不一定需要这样做,可自行测试,现阶段,DX11更为稳定).
 
 3.鄙人狠下心下载了80+个g的原神,  已经于V1.18版本解决原神窗体条纹问题 .
@@ -47,9 +53,10 @@ Recent updates have been frequent, so stay tuned for the latest features!
 
 4.多设备玩steam游戏,由于云存档机制问题, 要注意有没有自动云存档，雪藏中的游戏,没退出前steam可能会没有把游戏存档即时更新, 换设备后, 会造成存档回溯. (Thanks to 古赫)
 
-5.Some games have anti-debugging mechanisms that make HsFreezer not work, unrelated to HsFreezer. (Rare event, e.g. Honkai Impact 3rd)
+5.Some games have anti-debugging mechanisms that make HsFreezer not work, 
+unrelated to HsFreezer. (Rare event, e.g. Honkai Impact 3rd)
 
-
+<br>
 
 Changelog:
 
