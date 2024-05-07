@@ -1,65 +1,138 @@
+<!---
+仍在翻译中…
+Still translating...
+--->
+
 "Take your magical gaming capsule. You probably never imagined that 
 switching 3A games would be easier than switching songs." --大陌DM
+<!---
+"请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
+--->
 
 HsFreezer will let you know what RAM is really used for.
+<!---
+雪藏会让你深刻感受到--内存,原来是这么用的.
+--->
 
 <br>
 
 # HsFreezer (Hidden in the snow)
+<!---
+# HsFreezer(Hidden in the snow)
+--->
 
 This is a program that lets you freeze your game at any time (software pausing tool). 
 You can play when you want, and stop when you want.
+<!---
+这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停.
+--->
 
 By [大陌DM](https://space.bilibili.com/216333612)<br>
 [QQ](https://im.qq.com/):269653764
+<!---
+作者:大陌DM   Q:269653764
+--->
 
 <br>
 
 Latest: 1.28 - 2024-05-07
+<!---
+最新版本:---1.28---更新日期2024 / 5 / 7
+--->
 
 [Download](https://www.123pan.com/s/o8hUjv-2dllA.html)
+<!---
+高速下载地址: https://www.123pan.com/s/o8hUjv-2dllA.html
+--->
 
     Stabilize more and compatible more;
     Added multiple freeze support;
-    Added more beautified icons
+    Added more beautified icons;
+    New supported: BLADEPOINT
+<!---
+1.增加稳定性:适配多个游戏:永劫无间等2.支持多开批量冻结3.图标美化补全.
+--->
 
 Updates as needed!
+<!---
+根据需求更新哦!
+--->
 
 Recent updates have been frequent, so stay tuned for the latest features!
+<!---
+(最近一个月更新非常快,请关注获取最新特性)---
+--->
 
 <br>
 
 [Demo (V1.05)](https://www.bilibili.com/video/BV1zm421L76B) (Thanks to 甜蜜的泡芙)
+<!---
+视频演示1: https://www.bilibili.com/video/BV1zm421L76B (本视频演示使用版本 V1.05)
+--->
 
 [Demo (V1.14)](https://www.bilibili.com/video/BV1xp421S7PX) (Thanks to 博van小哥哥)
+<!---
+视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
+--->
 
 [Demo (V1.211)](https://www.bilibili.com/video/BV19H4y137hx) (Thanks to 甜蜜的泡芙)
+<!---
+视频演示3: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
+--->
 
 Looking forward to your work! 
 I'll showcase all submissions about HsFreezer, so feel free to create with HsFreezer.
+<!---
+更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
+--->
 
 <br>
 
 Attention:
+<!---
+特别注意:
+--->
 
-1.To use overlay style performance monitoring softwares (e.g. RTSS), 
+1. To use overlay style performance monitoring softwares (e.g. RTSS), 
 please update to V1.13 or above.<br>
-(This type of software is forced coverage software, already adapted.)
+(This type of software is forced coverage software, already adapted)
+<!---
+1.使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
+此类软件属于强制内覆盖绘制软件,已经适配.
+--->
 
-2.In some of Capcom's games (e.g. Resident Evil), try to use DX11 in the graphics settings, 
+2. In some of Capcom's games (e.g. Resident Evil), try to use DX11 in the graphics settings, 
 because DX12 with AMD driver will cause conflict resulting to unstable.<br>
-(Some versions of AMD drivers might not cause conflicts and unstability, mysterious.)
+(Some versions of AMD drivers might not cause conflicts and unstability, mysterious)
+<!---
+2.卡普空部分游戏:如生化危机等,尽量画面设置中尽量使用DX11,因为AMD驱动与DX12有某些冲突
+(当然,这个驱动版本是玄学,也不一定需要这样做,可自行测试,现阶段,DX11更为稳定).
+--->
 
-3.Downloaded 80+GB of Genshin, already solved the window stripe problem with some games at V1.18.
+3. Downloaded 80+GB of Genshin, already solved the window stripe problem with some games at V1.18.<br>
+(Already tested that online games are not affected by freezing,
+the connection resumes quickly after unfreezing)
+<!---
+3.鄙人狠下心下载了80+个g的原神,  已经于V1.18版本解决原神窗体条纹问题 .
+(原神党久等了, 原神随意冻结,冻结时长太长解冻仅会重连而已,非常快速的还原. 实测联网类游戏可用)
+--->
 
-4.Due to the cloud backup mechanism, playing steam game with multiple devices, 
+4. Due to the cloud backup mechanism, playing steam game with multiple devices, 
 note if there is no automatic backup. 
 For games that have been frozen, steam may not backup the game progress on time, 
-which will cause the progress to be lost after switching to another device. (Thanks to 古赫)
+which will cause the progress to be lost after switching to another device. (Thanks to 古赫)<br>
+(Well, looks like having too much device isn't so great after all)
+<!---
+4.多设备玩steam游戏,由于云存档机制问题, 要注意有没有自动云存档，雪藏中的游戏,没退出前steam可能会没有把游戏存档即时更新, 换设备后, 会造成存档回溯. (感谢:古赫分享)
+(单设备就尽情的造,设备太多也是一种烦恼哈哈)
+--->
 
-5.Some games have anti-debugging mechanisms that make HsFreezer not work, 
+5. Some games have anti-debugging mechanisms that make HsFreezer not work, 
 unrelated to HsFreezer.<br>
 (Rare event, e.g. Honkai Impact 3rd)
+<!---
+5.某些网游的反调试机制, 会使雪藏无法生效, 属正常现象.(极少数,目前已知有:崩坏3)
+--->
 
 <br>
 
@@ -71,7 +144,7 @@ Changelog:
     The total amount of GUI interface and logic processing code is now 13700+ lines, and keeps growing.
     There is more code for the window thread, if you just suspend it why not use the Resource Monitor,
     we want the ultimate experience, otherwise why bother?)
-
+    
     V1.00 
     HsFreezer's first version with GUI.
     
