@@ -1,174 +1,62 @@
-<!---
-仍在翻译中…
-Still translating...
---->
-
-"Take your magical gaming capsule. You probably never imagined that 
-switching 3A games would be easier than switching songs." --大陌DM
-<!---
 "请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
---->
 
-HsFreezer will let you know what RAM is really used for.
-<!---
+这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停.
+
 雪藏会让你深刻感受到--内存,原来是这么用的.
---->
 
-<br>
-
-# HsFreezer (Hidden in the snow)
-<!---
+作者:大陌DM   Q:269653764 
 # HsFreezer(Hidden in the snow)
---->
 
-This is a program that lets you freeze your game at any time. 
-You can start when you want, and stop when you want.<br>
-And, certainly, not only the game!
-<!---
-这是一款让你可以随心冻结游戏的软件(游戏暂停软件),想玩就玩,想停就停,当然,不止游戏!
---->
-
-By [大陌DM](https://space.bilibili.com/216333612)<br>
-[Group](https://im.qq.com/): 573535131
-<!---
-作者:大陌DM   Q:269653764
---->
-
-<br>
-
-Latest: 1.28 - 2024-05-07
-<!---
-最新版本:---1.28---更新日期2024 / 5 / 7
---->
-
-[Download](https://www.123pan.com/s/o8hUjv-2dllA.html)
-<!---
 高速下载地址: https://www.123pan.com/s/o8hUjv-2dllA.html
---->
 
-    Stabilize more and compatible more;
-    Added multiple freeze support;
-    Added more beautified icons;
-    New adapted: BLADEPOINT
-<!---
-1.增加稳定性:适配多个游戏:永劫无间等2.支持多开批量冻结3.图标美化补全.
---->
+最新版本:---1.28 1.增加稳定性:适配多个游戏:永劫无间等2.支持多开批量冻结3.图标美化补全.根据需求更新哦!---更新日期2024 / 5 / 7 (最近一个月更新非常快,请关注获取最新特性)---
 
-Updates as needed!
-<!---
-根据需求更新哦!
---->
-
-Recent updates have been frequent, so stay tuned for the latest features!
-<!---
-(最近一个月更新非常快,请关注获取最新特性)---
---->
-
-<br>
-
-[Demo (V1.05)](https://www.bilibili.com/video/BV1zm421L76B) (Thanks to 甜蜜的泡芙)
-<!---
 视频演示1: https://www.bilibili.com/video/BV1zm421L76B (本视频演示使用版本 V1.05)
---->
 
-[Demo (V1.14)](https://www.bilibili.com/video/BV1xp421S7PX) (Thanks to 博van小哥哥)
-<!---
 视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
---->
 
-[Demo (V1.211)](https://www.bilibili.com/video/BV19H4y137hx) (Thanks to 甜蜜的泡芙)
-<!---
 视频演示3: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
---->
 
-Looking forward to your work! 
-I'll showcase all submissions about HsFreezer, so feel free to create with HsFreezer.
-<!---
 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
---->
 
-<br>
 
-Attention:
-<!---
 特别注意:
---->
 
-1. To use overlay style performance monitoring softwares (e.g. RTSS), 
-please update to V1.13 or above.<br>
-(This type of software is forced coverage software, already adapted)
-<!---
 1.使用各种查看帧数功耗OSD软件( 游戏加加,RTSS 等)的用户,请更新至1.13以上版本! 
 此类软件属于强制内覆盖绘制软件,已经适配.
---->
 
-2. In some of Capcom's games (e.g. Resident Evil), try to use DX11 in the graphics settings, 
-because DX12 with AMD driver will cause conflict resulting to unstable.<br>
-(Some versions of AMD drivers might not cause conflicts and unstability, mysterious)
-<!---
 2.卡普空部分游戏:如生化危机等,尽量画面设置中尽量使用DX11,因为AMD驱动与DX12有某些冲突
 (当然,这个驱动版本是玄学,也不一定需要这样做,可自行测试,现阶段,DX11更为稳定).
---->
 
-3. Downloaded 80+GB of Genshin, finally solved the window stripe problem with some games at V1.18.<br>
-(Already tested that online games are not affected by freezing,
-the connection resumes quickly after unfreezing)
-<!---
 3.鄙人狠下心下载了80+个g的原神,  已经于V1.18版本解决原神窗体条纹问题 .
 (原神党久等了, 原神随意冻结,冻结时长太长解冻仅会重连而已,非常快速的还原. 实测联网类游戏可用)
---->
 
-4. Due to the cloud backup mechanism, playing steam game with multiple devices, 
-note if there is no automatic backup. 
-For games that have been frozen, steam may not backup the game progress on time, 
-which will cause the progress to be lost after switching to another device. (Thanks to 古赫)<br>
-(Well, looks like having too much device isn't so great after all)
-<!---
 4.多设备玩steam游戏,由于云存档机制问题, 要注意有没有自动云存档，雪藏中的游戏,没退出前steam可能会没有把游戏存档即时更新, 换设备后, 会造成存档回溯. (感谢:古赫分享)
 (单设备就尽情的造,设备太多也是一种烦恼哈哈)
---->
 
-5. Some games have anti-debugging mechanisms that make HsFreezer not work, 
-unrelated to HsFreezer.<br>
-(Rare event, e.g. Honkai Impact 3rd)
-<!---
 5.某些网游的反调试机制, 会使雪藏无法生效, 属正常现象.(极少数,目前已知有:崩坏3)
---->
 
-<br>
 
-Changelog:
 
-    V0.01
-    The first generation popup mode HsFreezer was built in 2017.
-    (At that time there were only 80 lines of code, for myself only, and iterating till now.
-    The total amount of GUI interface and logic processing code is now 13700+ lines, and keeps growing.
-    There is more code for the window thread, if you just suspend it why not use the Resource Monitor,
-    we want the ultimate experience, otherwise why bother?)
-    
-    V1.00 
-    HsFreezer's first version with GUI.
-    
-    V1.01 
-    Fixed window overlay bugs; 
-    Optimized experience of handheld consoles; 
-    Optimized the sequence of thread suspension;
-    Reasonably adjusted the context saving and restoring order of each override thread handle
-    for the call chain of different engines, greatly improving the stability.
-    
-    V1.02 
-    Added freezer tab, makes it easier to manage items.
-    
-    V1.03 
+更新日志:
+
+    v0.01
+    弹窗模式初代雪藏于2017年建立 (当时80行代码,自用,迭代至今, 现GUI界面+逻辑处理代码总量13700+行,持续增加中..窗体线程操作是大头...如果纯挂起那不如用ZY监视器,要的就是在体验中追求极致,不然何必打磨?)
+
+    v1.00 
+    雪藏Freezer v1.0  GUI版本上线.
+    v1.01 
+    修复一些窗体内覆盖干扰, ,优化部分win掌机体验,优化线程挂起顺序,针对不同引擎
+    的调用链,合理调节各个内覆盖线程句柄的上下文保存和恢复顺序,极大提升稳定性,
+    v1.02 
+    增加雪藏栏, 更方便的管理资源 
+    v1.03 
     优化检测进程性能算法, 使雪藏本体后台消耗近乎为0.
-    
-    V1.04 
+    v1.04 
     增加寒霜引擎, RE引擎内覆盖窗体检测排除,实现更完美的收纳隐藏效果. 
-    
-    V1.05 
+    v1.05 
     加入单锁模式, 更适合极限切换, win键(或者alt+tab,ctrl+esc等)即可匿藏无踪, 老板键都直呼内行.
-    
-    V1.06 
+    v1.06 
     1.优化适配了DX12的界面检测, 不再被底层内覆盖影响.  (感谢:博van 提供线索)  
     2.修复:某些DX12内覆盖窗体问题.
     
@@ -374,56 +262,7 @@ Changelog:
     4.如冻结\解冻的目标不在列表中,请点击"全局模式"进行搜索查找.
     5.我在新版本里会陆续加入忽略一些不必要冻结的进程名单,用户进行冻结操作后,如雪藏判定此项为非必要操作项(如服务,附属子进程等), 直接删除其列表项,不作响应,提升容错率.(玩游戏就玩游戏嘛,有些同学手贱好奇去冻个后台进程...导致系统(程序)崩溃还怪雪藏不稳定咧.)
 
-<br>
 
-作者寄言: 本工具是我很久以前就一直使用的工具,习惯成自然,我差点忽略了它的存在,
-所以也没想过做成对外分享的软件,不过其核心是据多年使用不断打磨,把很多细节都完善了,
-也希望它更好用,变成一款更为趁手的专项工具,且不只用于游戏,而是一款全方位的犀利软件.
-定位是一款极致的PC硬件算力资源优化调度软件,有了它,你不要再像从前一个劲点管家悬浮球释放内存了:)
-近些年接触到各种win掌机,看到大家为了提升续航绞尽脑汁,我才发现咱这工具不就能很好利用在这方面?
-碎片时间,积少成多,咱们可以在另一个层面把算力能耗省出来,曲线救国, 省电省力省时.
-所以"雪藏HsFreezer"应运而生,解决PC端程序在后台疯狂占用资源的痛点,完美调度运算资源.
-让资源"one by ony", 让每一份算力都用在当下,让进程不再像脱缰的野马,使其乖乖听话.
-在此把雪藏分享给大家使用,希望能够帮助各位PC玩家节省下碎片时间,消除等待焦虑,
-让你能随心快速的切换至各个雪藏中的美好时光,也体验到进行主动调度系统资源的奇妙感受,
-以上,我反复提到 "碎片时间" ."资源调度"这些概念,你在没用雪藏之前, 你可能没啥感觉, 
-一旦你长期用下来你才能体会到其中的精妙之处,使用电脑的过程中,玩游戏的流畅度是一方面体验,
-其实还有一个很重要的方面就是各种进程切换等待的体验,我们换个好的固态硬盘,增加读写效率,
-能提升这方面体验, 但其实,这个体验已经到了瓶颈,若干年前从机械到固态的升级,
-确实感受速度提升很明显,再往后就很难有质的飞跃了,这是程序io机制导致的,很多情况下,
-并不是读写瓶颈,就好像你买一台世界顶级的百万级电脑,你想从A游戏进入到B游戏,
-你的硬盘和内存哪怕读写速率再快,常规流程操作载入时间算下来,也和5000块的电脑相差无几,
-他们远远比雪藏中的两个游戏间切换要慢的,这个已经超越比拼硬件性能的范畴,纯属机制上的降维打击.
-这个工具你利用得当的话,会让你日常使用的过程中,感受到一种奇妙的体验,
-这个体验不是单纯堆硬件性能能堆出来的,堆硬件相当于是在琢磨怎么提升第一第二宇宙速度, 
-但雪藏像虫洞,空间跳跃,完全不是一个层面的感受, 上面我也说了,做这东西的初衷本来是方便我自己玩的,
-后面想着如果把这个理念推广出去,能让硬件(软件)厂商,直接在游戏和系统上重视这块,那该多好,
-我也希望PC端也有原生能媲美游戏机那样的机制,这是我的大我理想,哪怕以后雪藏成为一款"多余的软件",
-那我的理想也就实现了,到那时候,雪藏退出历史舞台,我也非常欣慰,
-至少,咱把一个不被人注意的的理念,推广成了普遍的共识, 这就像星星之火一样,可以燎原,
-那句话咋说来着, 这世界上, 本没有路人走多了,就成路了,这需要大家的共同努力,发光发热,
-推进一些不起眼但实则非常重要的细节进步. 其实看到一些能马上get到雪藏亮点的小伙伴,很是欣慰,
-每当我看到群里,评论区里有人说这个东西有啥用,我真是恨我表达能力有限,无法将这一理念普及给所有人,
-哪怕我已经对他进行各种深度优化,19分钟的2倍速视频都不能说清楚,哎哎,属实惭愧,
-大陌在此感谢能喜欢雪藏的各位. 希望雪藏HsFreezer能够一直陪伴你.   
-也希望这小众的理念, 在未来成为大众共识.
-大家也不用过多执着于功能实现问题,道生一一生二二生三三生万物,万事万物你中有我我中有你.
-雪藏更侧重的是一种极致优化理念与微妙体验的宣扬,毕竟好的功能常有,但好的理念不常有."  ---By:大陌DM
+总结: 以上,我反复提到 "碎片时间" ."资源调度"这些概念,你在没用雪藏之前, 可能没啥感觉, 一旦你长期用下来你才能体会到其中的精妙之处,使用电脑的过程中,玩游戏的流畅度是一方面体验, 其实还有一个很重要的方面就是各种进程切换等待的体验,我们日常就觉得换个好的固态硬盘,增加读写效率,能提升这方面体验, 但其实,这个已经到了瓶颈,若干年前从机械到固态的升级,确实感受速度提升很明显,再往后就很难有质的飞跃了,这是程序io机制导致的,并不是读写瓶颈 ,就好像你买一台世界顶级的电脑,你想从A游戏进入到B游戏,你的硬盘和内存哪怕读写速率再快,常规流程操作下来,也远远比雪藏中的两个游戏间切换要慢的,这个已经超越比拼硬件性能的范畴,纯属机制上的降维打击. 这个工具你利用得当的话,会让你日常使用的过程中,感受到一种奇妙的体验,这个体验不是单纯堆硬件性能能堆出来的,堆硬件相当于是在琢磨怎么提升第一第二宇宙速度, 但雪藏像虫洞,空间跳跃...完全不是一个层面的感受, 其实我做这东西的初衷本来是方便我自己玩的,其实我用了快10年有余,习惯成自然,都快以为这个是大家都在用的东西了, 后来才发现并不是, ,后面想着如果把这个理念推广出去,能让硬件(软件)厂商,直接在游戏和系统上重视这块,那该多好,我也希望PC端也有能媲美游戏机那样的机制,我的大我理想,就是以后雪藏成为一款"多余的软件", 到那时候,我也非常欣慰了,至少,咱把一个不被人注意的的理念,推广成了普遍的共识, 这就像星星之火一样,可以燎原, 那句话咋说来着, 这世界上, 本没有路人走多了,就成路了,这需要大家的共同努力,发光发热,推进一些不起眼但实则非常重要的细节进步.   其实看到一些能马上get到雪藏亮点的小伙伴,很是欣慰,(每当我看到群里,评论区里有人说这个东西有啥用,我真是恨我表达能力有限,无法将这一理念普及给所有人,哪怕我已经对他进行各种深度优化,19分钟的2倍速视频都不能说清楚,哎哎,属实惭愧) 大家也不用执着于功能的实现,道生一，一生二，二生三，三生万物,万事万物你中有我我中有你.
+雪藏更侧重的是一种体验与理念的宣传,毕竟好的功能常有,但好的理念不常有. 大陌在此感谢能喜欢雪藏的各位. --咖喱阿多 玛玛哈哈.
 
-<br>
-
-<br>
-
-Acknowledgements:
-
-awsLL<br>
-博van小哥哥<br>
-古赫<br>
-いかないで<br>
-Journey<br>
-隆<br>
-浅墨染血<br>
-容之<br>
-疏星<br>
-甜蜜的泡芙<br>
-熊伽喵的熊<br>
