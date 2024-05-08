@@ -150,14 +150,14 @@ Changelog:
     HsFreezer's first version with GUI.
     
     V1.01 
-    Fix window overlay bugs; 
+    Fixed window overlay bugs; 
     Optimized experience of handheld consoles; 
     Optimized the sequence of thread suspension;
-    Reasonably adjust the context saving and restoring order of each override thread handle
+    Reasonably adjusted the context saving and restoring order of each override thread handle
     for the call chain of different engines, greatly improving the stability.
     
     V1.02 
-    增加雪藏栏, 更方便的管理资源 
+    Added freezer tab, makes it easier to manage items.
     
     V1.03 
     优化检测进程性能算法, 使雪藏本体后台消耗近乎为0.
