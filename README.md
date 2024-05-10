@@ -17,6 +17,8 @@
 
 视频演示3: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
 
+视频演示5::https://www.bilibili.com/video/BV18m421u7RR/ (极限快照&进阶面板视频演示 本视频演示版本 V1.31)
+
 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
 
 
