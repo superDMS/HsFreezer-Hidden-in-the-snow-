@@ -196,11 +196,13 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123
     1.进一步优化雪藏性能, 后台自冻结(实时模式下也会冻结).
     2.加入若干自定义功能,关闭音效,关闭更新等.
     3.加入"进阶面板"功能.(可结束其他进程,查看进程若干底层数据)
-    ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/e9b357d1-208e-46f6-9be5-7ffd9b8fb3d3)
+   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/8f015de5-5091-439f-872d-67ead819952a)
+
 
     V1.31
     1.加入"极限快照"功能,一个你从没有体验过的全新动态优化策略,不用再各种重启啦(详情请查看软件内说明后再使用)
-    ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/5f3bc9da-d3b5-475e-9bad-a092cd7413ee)
+   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/7608e026-6ebf-4212-9762-d8c91b5ae52e)
+
 
     2.加入虚拟内存调度机制,雪藏内容达到在一定情况下会转入虚拟内存.
     3.优化列表稳定性,不会导致排序频闪,加入更大的均值回归容载, 列表精确而稳定.
