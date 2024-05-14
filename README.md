@@ -52,8 +52,8 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123
 开端:v0.01
 ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/e32d8ded-47a5-42d2-bba8-28fa401a514a)
 ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/e8b650a9-d24c-4e19-a5b6-ee43542f9657)
-弹窗模式初代雪藏于2017年建立 (当时80行代码,自用,迭代至今, 现GUI界面+逻辑处理代码总量16500+行,持续增加中..窗体线程操作与各种瞬发体验是大头...如果纯实现挂起那不如用监视器,要的就是在体验中追求极,不然何必打磨?快捷键意念瞬发,这才是随心暂停,而不是翻来找去,过程繁琐,当然,你喜欢反复到监视器里的列表里一个个翻,且能忍受他呼出的繁琐,冻结能力差,稳定性差,当我没说.)
- ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/097b8371-f39c-4664-8978-842ede48bc25)现在源码量  
+弹窗模式初代雪藏于2017年建立 (当时80行代码,自用,迭代至今, 现GUI界面+逻辑处理代码总量16500+行,持续增加中..窗体线程操作与各种瞬发体验是大头...如果纯实现挂起那不如用监视器,要的就是在体验中追求极,不然何必打磨?快捷键意念瞬发,这才是随心暂停,而不是翻来找去,过程繁琐,当然,你喜欢反复到监视器里的列表里一个个翻,且能忍受他呼出的繁琐,冻结能力差,稳定性差,当我没说.)现在源码量:
+ ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/097b8371-f39c-4664-8978-842ede48bc25)  
 
     v1.00 
     雪藏Freezer v1.0  GUI版本上线.
@@ -240,7 +240,8 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123
 
     2.修复:进阶面板程序路径延迟问题.
     3.修复:退出的进程残留问题
-![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/8155b28d-afe4-45bb-aa83-bc3321de356d)
+![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/c3940d00-129d-465f-90de-3ebe896ec89c)
+
 
 
  *加入sklearn高级加密算法,动态打包技术,按每个不同的机器环境,动态打包,因为py的静态打包机制,经常会出现放到另一个机子上无法运行的状况,所以首次部署都会从本机环境进行打包生成, 
