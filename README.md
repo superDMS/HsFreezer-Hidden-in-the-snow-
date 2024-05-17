@@ -3,8 +3,9 @@
 这是一款让你可以随心冻结游戏的软件(游戏暂停软件、系统优化软件、进程管理软件),想玩就玩,想停就停,快捷键随心瞬发,单锁模式极致的丝滑切换,当然,不止适用游戏!更有丰富的特色系统优化功能.
 
 雪藏深耕此领域,掌握冻结核心科技,万千用户有目共睹,虽然软件界的用户量永远比功能重要,咱在拥有用户量的情况下也要做到极致的功能.
-![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/7fc42f72-1f44-46ef-a8ac-282fdfdd0a72)
-![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/8df82da4-0056-4989-94c2-952fa1668eaf)
+![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/0c4f2316-1694-4388-858b-e2611bf3dd75)
+![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/88463327-761e-4277-977f-f9622e25ac84)
+
 (本人拥有大量网友提供远程调试环境,基本都是马上现场解决,太多游戏就不一一提名了,日均解决数十款不同游戏的细节问题.每天有n多反馈,雪藏会不间断优化,适应更多需求面,样本足够多才能足够的完善,没反馈还真不知道有那么多活久见的问题,哈哈,咱的框架拓展性是充分预留的.)
 
 雪藏会让你深刻体会到:内存,原来是这么用的.
