@@ -25,13 +25,18 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123(如果是更新,在原目�
 # 最新版本:---1.45 0.修复1.40-1.43各种提示组件缺失问题.1.加入自动呼吸功能: 网游党福利,适用于不想掉线重连的情景,防掉线!2.加入抓取光标悬停位置进程功能:配合此功能可以迅速找到有可见窗体的进程(对其冻结后可置顶到相关栏目)3.其他细节优化&修复.---
 ## 更新日期2024 / 5 / 21 (最近一个月更新非常快,因为大批量密集测试,疯狂改bug中,如果有异常,也许隔一会来着看看更新日志就修复了,请关注获取最新特性)---
 # 视频演示
-视频演示1: https://www.bilibili.com/video/BV1zm421L76B (本视频演示使用版本 V1.05)
+雪藏HsFreezer冻结概念详解: https://www.bilibili.com/video/BV1zm421L76B (本视频演示使用版本 V1.05)
 
-视频演示2: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
+雪藏游戏应用: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
 
-视频演示3: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
+百万播放量介绍视频: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
 
-视频演示4::https://www.bilibili.com/video/BV18m421u7RR/ (极限快照&进阶面板视频演示 本视频演示版本 V1.31)
+极限快照与进阶面板演示: https://www.bilibili.com/video/BV18m421u7RR/ (极限快照&进阶面板视频演示 本视频演示版本 V1.31)
+
+光标悬停抓取进程功能-自动呼吸(网游防掉线)功能-妙控拖拽功能 详解: https://www.bilibili.com/video/BV1cy411a7rg/(本视频演示版本 V1.43)
+
+妙控拖拽功能摸鱼演示: https://www.bilibili.com/video/BV1EM4m1k7TR/(本视频演示版本 V1.43)
+
 
 ## 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
 
