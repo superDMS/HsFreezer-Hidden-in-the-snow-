@@ -1,5 +1,6 @@
 import psutil,win32process,os,win32gui,win32api,win32con
 from pyautogui import  confirm,prompt
+#请右键管理员权限运行!
 #本人在各种能存文件的地方找了好久,终于翻到了某个网盘里躺着的初代版本雪藏v0.01,本来上百行,本人看着几年前写的代码属实受不了,在尽量保证初代雪藏的原汁原味的操作下,稍作凝练优化了一下!
 #特此分享用于学习&交流.超级压缩版,异常捕捉都用不着,巧妙避开崩溃,区区40行,在保证进程不崩的同时,既有GUI,冻结与解冻逻辑完整,麻雀虽小五脏俱全,本人一贯喜欢用高级抽象写法,一行代码顶n行的,这是习惯,python极端写法爱好者,见谅.
 def find_process_h(exe_name):
@@ -28,9 +29,9 @@ def main():
             else:break
         select = confirm('待执行操作的EXE为:  ' + exe+'   对其进行何种操作?', buttons=['冻结', '解冻'])
         if select == '冻结':
-            win32gui.ShowWindow(find_process_h(select), 0)  #隐藏窗口:由于没做复杂内覆盖处理,可能导致异常,可以尝试使用     
+  
             os.system(f'pssuspend64.exe {exe}')#调用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶冻结功能.#pstool工具包可到微软官方下载:https://learn.microsoft.com/zh-cn/sysinternals/downloads/pstools
         elif select == '解冻':
             os.system(f'pssuspend64.exe -r {exe}')#调用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶解冻功能.
-            win32gui.ShowWindow(find_process_h(select), 1) #显示窗口
+
 main()
