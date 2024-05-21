@@ -29,8 +29,8 @@ def main():
         select = confirm('待执行操作的EXE为:  ' + exe+'   对其进行何种操作?', buttons=['冻结', '解冻'])
         if select == '冻结':
             win32gui.ShowWindow(find_process_h(select), 0)  #隐藏窗口:由于没做复杂内覆盖处理,可能导致异常,可以尝试使用     
-            os.system(f'pssuspend64.exe {exe}')#动用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶冻结功能.#pstool工具包可到微软官方下载:https://learn.microsoft.com/zh-cn/sysinternals/downloads/pstools
+            os.system(f'pssuspend64.exe {exe}')#调用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶冻结功能.#pstool工具包可到微软官方下载:https://learn.microsoft.com/zh-cn/sysinternals/downloads/pstools
         elif select == '解冻':
-            os.system(f'pssuspend64.exe -r {exe}')#动用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶解冻功能.
+            os.system(f'pssuspend64.exe -r {exe}')#调用微软pstool工具包里的pssuspend64.exe(与py文件放同个目录下)来行驶解冻功能.
             win32gui.ShowWindow(find_process_h(select), 1) #显示窗口
 main()
