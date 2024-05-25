@@ -35,15 +35,17 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123(解压如果卡黑窗口输
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
 (不知道雪藏有何用的小伙伴,看完也许有新的启发,看完如果还觉得没用,那很遗憾,无法共鸣.本视频演示使用版本 V1.05)
 
-雪藏游戏应用: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 (感谢up主:博van小哥哥的推荐)(本视频演示使用版本 V1.14)
+雪藏游戏应用: https://www.bilibili.com/video/BV1xp421S7PX?t=332.0 感谢UP主:博van小哥哥 推荐 (本视频演示使用版本 V1.14)
 
-百万播放量介绍视频: https://www.bilibili.com/video/BV19H4y137hx/ (感谢up主:甜蜜的泡芙 制作) (本视频演示使用版本 V1.211)
+百万播放量介绍视频: https://www.bilibili.com/video/BV19H4y137hx/ 感谢UP主:甜蜜的泡芙 制作 (本视频演示使用版本 V1.211)
 
 极限快照与进阶面板演示: https://www.bilibili.com/video/BV18m421u7RR/ (极限快照&进阶面板视频演示 本视频演示版本 V1.31)
 
 光标悬停抓取进程功能-自动呼吸(网游防掉线)功能-妙控拖拽功能 详解: https://www.bilibili.com/video/BV1cy411a7rg/ (本视频演示版本 V1.43)
 
 妙控拖拽功能摸鱼演示: https://www.bilibili.com/video/BV1EM4m1k7TR/ (本视频演示版本 V1.43)
+
+N个3A大作后台联动演示: https://www.bilibili.com/video/BV1Vw4m197wd/ 感谢UP主: 电子吕游 制作 (本视频演示版本V1.28)
 
 
 ## 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
