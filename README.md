@@ -228,7 +228,8 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123(解压如果卡黑窗口输
 
 # V1.31(新增功能)
     1.加入"极限快照"功能,一个你从没有体验过的全新动态优化策略,不用再各种重启啦(详情请查看软件内说明后再使用)
-   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/7608e026-6ebf-4212-9762-d8c91b5ae52e)
+   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/bb872883-e51e-4177-af11-da4cdc6b0c95)
+
 
 
     2.加入虚拟内存调度机制,雪藏内容达到在一定情况下会转入虚拟内存.
@@ -340,7 +341,10 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123(解压如果卡黑窗口输
    7.调整增加进阶面板显眼开关.
    8.调整:黑,白,呼吸 等名单皆用右键来删除, 取消多余按键.
    9.增加更多动态反馈.
-   
+   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/04ad12e8-180f-4f5e-ba9b-9718031065e3)
+
+   ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/38d96c3a-3db9-482d-8716-48b8a194894f)
+
     V1.51
     优化:优化的的快捷方式(旧版无图标的用户请请重新添加)
     优化:增加更多的动态反馈体验.
