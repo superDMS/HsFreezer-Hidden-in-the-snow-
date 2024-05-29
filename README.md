@@ -38,7 +38,7 @@ https://www.123pan.com/s/o8hUjv-2dllA.html 云盘123(解压如果卡黑窗口输
 
 百万播放量介绍视频: https://www.bilibili.com/video/BV19H4y137hx/ 感谢UP主:甜蜜的泡芙 制作 (本视频演示使用版本 V1.211)
 
-2077,大表哥2,老头环等多个3A大作联动演示: https://www.bilibili.com/video/BV1Vw4m197wd/ 感谢UP主: 电子吕游 制作 (本视频演示版本V1.28)
+2077,大表哥2,老头环等多个3A大作联动演示: https://www.bilibili.com/video/BV1Vw4m197wd/ https://www.bilibili.com/video/BV1Wn4y1R7mB/  感谢UP主: 电子吕游 制作 (本视频演示版本V1.28)
 
 极限快照与进阶面板演示: https://www.bilibili.com/video/BV18m421u7RR/ (极限快照&进阶面板视频演示 本视频演示版本 V1.31)
 
