@@ -4,7 +4,8 @@
 #include <iostream>
 #include <string>
 #include <psapi.h>
- 
+
+//以下代码可实现冻结效果, 如有其他开发需求自行嫁接.   py版本在release里面.两者都可实现. 根据需求自行选择.
  
 typedef LONG(NTAPI* NtSuspendProcess)(IN HANDLE ProcessHandle);
 void SuspendProcess(DWORD process_id) {
