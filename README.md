@@ -543,6 +543,10 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
     优化:扭时沙漏改变速度的响应提升3倍.(建议重启电脑后再进行更新,以免更新文件覆盖失败).
     优化:标题模式界面优化.
     修复:解冻法环后,偶发界面卡住问题.
+
+    V1.86
+    修复:长时间后台偶发未响应问题
+    修复:启动卡顿问题.
     
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
