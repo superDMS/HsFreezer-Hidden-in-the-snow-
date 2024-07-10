@@ -545,7 +545,7 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
     修复:解冻法环后,偶发界面卡住问题.
 
     V1.86
-    修复:长时间后台偶发未响应问题
+    修复:长时间后台偶发未响应问题(感谢:0.7x 提供线索)
     修复:启动卡顿问题.
     
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
