@@ -21,9 +21,9 @@ PC主机,win掌机,笔记本--无脑装就对了,超大按键超大列表,触控
 # 高速下载地址:
 https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回车即可.)
 
-# 最新版本: V1.87
-## 更新日期2024 / 7 / 13 ---
----1.86 修复:解冻快捷键先后问题. 如果限流或者打不开github.请加QQ群647374483自取(如果人满用手机QQ加方便自动跳新群).---https://pan.quark.cn/s/ea259dce120d---
+# 最新版本: V1.88
+## 更新日期2024 / 7 / 15 ---
+---1.88 增加:自呼吸快捷键 修复:解冻快捷键先后问题. 如果限流或者打不开github.请加QQ群647374483自取(如果人满用手机QQ加方便自动跳新群).---https://pan.quark.cn/s/ea259dce120d---
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
@@ -550,6 +550,9 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
 
     V1.87
     修复:冻结多个进程是, 解冻快捷键解冻顺序问题.
+
+    V1.88 
+    增加:自呼吸快捷键.方便网游类玩家切换.
     
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
