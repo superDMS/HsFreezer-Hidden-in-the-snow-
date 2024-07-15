@@ -553,6 +553,8 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
 
     V1.88 
     增加:自呼吸快捷键.方便网游类玩家切换.
+    V1.88.1
+    修复:极限快照面板文字显示异常问题.
     
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
