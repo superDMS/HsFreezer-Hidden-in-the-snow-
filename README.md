@@ -574,6 +574,7 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
 
     V1.93
     增加:多项浮动信息框提示.
+    
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
 # 使用说明and疑难解答（Q&A）:
