@@ -566,10 +566,11 @@ https://pan.quark.cn/s/ea259dce120d 夸克(解压如果卡黑窗口输入a,回�
     修复:标题单冻模式下冻结指向问题(感谢:霜飔 反馈线索)
 
     V1.91
+    
     若干细节优化修复.
 
     V1.92
-    修复:经典版QQ冻结后无法解冻问题.
+    修复:1.89-1.91 某些进程无法解冻问题.
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
 # 使用说明and疑难解答（Q&A）:
