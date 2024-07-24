@@ -601,6 +601,8 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
 
     V1.99
      强化极限快照功能, 附加MRD内存介入 使清理更彻底. (预载MRD模块)
+    V1.99.1
+    修复:WIN+L锁屏后,快捷键偶发失效问题.
 
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
