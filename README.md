@@ -604,7 +604,9 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
     V2.00
     修复:休眠,睡眠,WIN+L锁屏后,快捷键偶发失效问题.
     (新功能隐形适配中,如无明显问题再做开放)
-
+    V2.01 
+    修复:快捷键呼出界面偶发被遮挡问题 
+    优化:仅冻结/仅解冻稳定性
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
 # 使用说明and疑难解答（Q&A）:
