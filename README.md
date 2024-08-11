@@ -1,4 +1,4 @@
-# 雪藏HsFreezer(Hidden in the snow) 
+![image](https://github.com/user-attachments/assets/b5b2210d-45e3-4397-9448-3914ea14eda8)![image](https://github.com/user-attachments/assets/767b2af6-3cd7-431e-90c2-d65b745a8e38)# 雪藏HsFreezer(Hidden in the snow) 
 ## CPU&GPU空转终结者
 ## 当前小目标:每年为全球PC用户省出数千万度电,省出数千万小时的碎片时间,解决上亿次等待焦虑(累计总和,星星之火可以燎原),变相提高全民生产力!
 "请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
@@ -610,6 +610,13 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
     V2.01 
     修复:快捷键呼出界面偶发被遮挡问题 
     优化:仅冻结/仅解冻稳定性
+
+    V2.02-2.05
+    强化:极限快照功能, 附加MR内存介入 使清理更彻底.  
+    修复:极限快照打不开问题   
+    修复:光标自动移动问题. 
+    修复:单锁模式无法附加问题
+    
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
 # 使用说明and疑难解答（Q&A）:
