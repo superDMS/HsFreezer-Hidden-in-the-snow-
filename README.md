@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b5b2210d-45e3-4397-9448-3914ea14eda8)![image](https://github.com/user-attachments/assets/767b2af6-3cd7-431e-90c2-d65b745a8e38)# 雪藏HsFreezer(Hidden in the snow) 
+# 雪藏HsFreezer(Hidden in the snow) 
 ## CPU&GPU空转终结者
 ## 当前小目标:每年为全球PC用户省出数千万度电,省出数千万小时的碎片时间,解决上亿次等待焦虑(累计总和,星星之火可以燎原),变相提高全民生产力!
 "请领取你的魔法游戏胶囊, 也许你做梦都没想到, 切换3A游戏竟然比切歌还方便." --大陌DM
