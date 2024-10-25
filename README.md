@@ -46,6 +46,7 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
 
 妙控拖拽功能摸鱼演示: https://www.bilibili.com/video/BV1EM4m1k7TR/ (本视频演示版本 V1.43)
 
+​雪藏x串流自动冻结，感受弹指挥间的舒适冻结体验！:https://www.bilibili.com/video/BV1bZxceVEbn 感谢up:chuchu~
 
 
 ## 更多待您创作! 我会把关于雪藏的投稿创作都做展示,欢迎大家用雪藏来创作.
