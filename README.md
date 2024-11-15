@@ -28,7 +28,7 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
 
 # 最新版本: V2.07
 ## 更新日期2024 / 10 / 17
----2.06 修复:光标乱跳动 修复:极限快照弹出文件管理器问题.以及其他若干问题 ---https://pan.quark.cn/s/ea259dce120d---
+---2.07 修复:光标乱跳动 修复:极限快照弹出文件管理器问题.以及其他若干问题 ---https://pan.quark.cn/s/ea259dce120d---
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
