@@ -26,7 +26,7 @@ PC主机,win掌机,笔记本--无脑装就对了,超大按键超大列表,触控
 #如github下载太慢. 请用夸克高速下载地址:
 https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreezer文件夹,进入文件夹里面找到安装程序)
 
-# 最新版本: ---V2.12---
+# 最新版本: ---2.12---
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
