@@ -26,7 +26,7 @@ PC主机,win掌机,笔记本--无脑装就对了,超大按键超大列表,触控
 #如github下载太慢. 请用夸克高速下载地址:
 https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreezer文件夹,进入文件夹里面找到安装程序)
 
-# 最新版本: ---2.15---
+# 最新版本: ---2.16---
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
@@ -620,6 +620,14 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
     修复:光标乱跳动 
     修复:极限快照弹出文件管理器问题.
     以及其他若干优化.
+    V2.07-2.16
+    修复:高分辨率UI异常问题
+    修复:单锁模式无效问题
+    修复:标题单冻失灵问题
+    优化:单锁模式附加步骤简化.
+    优化:启动检索速度.
+    其他已知问题等
+    提前祝大家新年快乐!!!
  ![image](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-/assets/57837939/6bacaaec-0006-4a3c-b9ec-688fac8d57a6)
 
 # 使用说明and疑难解答（Q&A）:
