@@ -29,7 +29,7 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
 # 高分屏如果显示太小,就这么设置!
 ![image](https://github.com/user-attachments/assets/414d5d7a-b2c9-475a-8696-7f978713e7a6)
 
-# 最新版本: ---2.21---
+# 最新版本: ---2.24---
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
