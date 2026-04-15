@@ -30,7 +30,7 @@ https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreez
 ![image](https://github.com/user-attachments/assets/414d5d7a-b2c9-475a-8696-7f978713e7a6)
 
 # 最新版本: ---2.25---
-特别提醒: 不用冻结三角洲行动! 
+特别提醒: 冻结<三角洲行动>可能会出现卡鼠标的情况,解冻后解除该状况.
 
 # 视频演示
 雪藏HsFreezer冻结&与优化调度PC运算资源概念详解: https://www.bilibili.com/video/BV1zm421L76B 
