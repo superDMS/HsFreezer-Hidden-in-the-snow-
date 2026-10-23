@@ -1,0 +1,45 @@
+Automatic update:*---*frp-six.com:10335*---*frp-six.com:10335*---*
+
+#检查frp是否在线脚本.
+
+import socket
+import time
+
+import socket
+import time
+
+def check_udp_port(host: str, port: int, timeout: float = 2.0) -> bool:
+    """UDP端口探测，发送测试包
+    注意UDP无连接：收不到ICMP端口不可达就判定为在线，存在防火墙丢包误判风险"""
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        sock.settimeout(timeout)
+        sock.sendto(b"test", (host, port))
+        try:
+            sock.recvfrom(1024)
+            return True
+        except socket.timeout:
+            # 超时没收到拒绝包，大概率开放/防火墙拦截
+            return True
+        except ConnectionRefusedError:
+            return False
+    except Exception:
+        return False
+    finally:
+        sock.close()
+
+if __name__ == "__main__":
+    host = "frp-six.com"
+    ports = [10335]
+    interval = 3  # 检测间隔，单位秒，可以自行修改
+    print(f"开始循环检测 {host} UDP端口: {ports}，间隔 {interval}s，Ctrl+C 停止\n")
+    try:
+        while True:
+            for p in ports:
+                ok = check_udp_port(host, p)
+                status = "✅ 作者frp在线" if ok else "❌ 作者frp离线"
+                print(f"[{time.strftime('%H:%M:%S')}] {host}:{p} UDP -> {status}")
+            print("-" * 40)
+            time.sleep(interval)
+    except KeyboardInterrupt:
+        print("\n检测已手动停止")
