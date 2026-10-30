@@ -9,7 +9,7 @@
 
 微云:https://share.weiyun.com/Y5D2O0ha
 #如微云下载太慢. 请用夸克高速下载地址:
-https://pan.quark.cn/s/ea259dce120d (解压后请在同个目录下找到HsFreezer文件夹,进入文件夹里面找到安装程序)
+https://pan.quark.cn/s/ad8a2b94e67f(解压后请在同个目录下找到HsFreezer文件夹,进入文件夹里面找到安装程序)
 
 # 最新版本: ---3.15---
 全新架构版本到来
